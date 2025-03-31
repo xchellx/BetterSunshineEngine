@@ -4,6 +4,7 @@
 #include <Dolphin/types.h>
 
 #include <JSystem/utility.hxx>
+#include <JSystem/memory.hxx>
 
 namespace BetterSMS {
 
